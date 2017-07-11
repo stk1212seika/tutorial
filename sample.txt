@@ -8,6 +8,3 @@ edited by user2.
 issue1 branch
 
 edited in issue2
-edited in issue3
-
-amend test.
