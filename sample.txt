@@ -6,3 +6,5 @@ edited by user1.
 edited by user2.
 
 issue1 branch
+
+edited in issue2
